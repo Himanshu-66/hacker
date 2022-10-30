@@ -13,7 +13,7 @@
 // happy hacktoberfest 2022
 // happy hacktober fest
 
-
+//happy hacktoberfest 2022
 
 class SieveOfEratosthenes {
 	void sieveOfEratosthenes(int n)
